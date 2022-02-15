@@ -7,7 +7,7 @@ spartaco666@github:~$ whoami
 
 - I’m Spartak,
 a curious technologist having an educational background in business, engineering and computer science. 
-Quite foreseeable that I would end up within the IT industry...
+It was quite foreseeable that I would end up within the IT industry...
 
 
 - My enthusiasm for data and analytics started when I discovered the field of Econometrics at University.
