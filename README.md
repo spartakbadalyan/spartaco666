@@ -25,7 +25,7 @@ I have since then aimed my time and focus on studying data related fields and tr
 - Setting up ETL/Data Pipelines for acquisition and transformation of data to make it available for other teams
 
 :point_right: Summary :
-+ Quite Up-to-date with the latest trends in the field of Information Technology and Business.
++ Quite up-to-date with the latest trends in the field of Information Technology and Business.
 
 + Ability to find out business problems and provide the best-fit solution.
 
