@@ -13,7 +13,7 @@ It was quite foreseeable that I would end up within the IT industry...
 Having statistical tools serving as a basis for analytics & prediction seemed almost wizardry to me.
 I have since then aimed my time and focus on studying data related fields and trying to get as polyvalent as possible.
 
-- I’m currently learning ETL, Data Warehousing, Data Modelling 
+- I’m currently learning Real-time stream processing (Kafka, RabbitMQ) 
 
 
 <h3 align="left">:chart_with_upwards_trend: Latest accomplishments :</h3> 
